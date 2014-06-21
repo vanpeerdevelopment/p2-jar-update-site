@@ -33,6 +33,7 @@
 							<artifacts>
 								<artifact>
 									<id>org.mockito:mockito-all:1.9.5</id>
+									<id>org.easytesting:fest-assert:1.4</id>
 								</artifact>
 							</artifacts>
 						</configuration>
