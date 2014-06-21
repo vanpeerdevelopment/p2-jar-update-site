@@ -1,1 +1,4 @@
 language: java
+env:
+ - secure: "fun7NOWnk7LDJU7RgsrRRSqSl9PY+l5tS/WmR47zMF4LDSxs2+2WbRPcu/yQEstPhaLVOo5o8+txIIk4tF/if07h4CkZNmnGdAU9illmTobxEDnRZMaHpI15vCHXt7eWcgt7ZMgeuAzmt/IIqbI2GOclmemXhfLi7zk4s0e5i2U="
+after_success: mvn com.github.github:site-maven-plugin:site
