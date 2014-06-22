@@ -37,6 +37,9 @@
 								<artifact>
 									<id>org.easytesting:fest-assert:1.4</id>
 								</artifact>
+								<artifact>
+									<id>org.easytesting:fest-reflect:1.4.1</id>
+								</artifact>
 							</artifacts>
 						</configuration>
 					</execution>
